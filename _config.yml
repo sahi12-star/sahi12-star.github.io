@@ -35,17 +35,15 @@ hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg.
 
 # Experiences
 author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
+            - company_name: Hack3
+              company_logo: hack3.png
+              designation: Sponsorships Volunteer
+              description: I contacted companies and organizations to sponsor us for the hackathon. I also emailed organizations if they would help us organizing a hackathon.
               visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
+            - company_name: Student Wellness and Leadership Movement
+              company_logo: SWL.jpeg
+              designation: Human Resources Member and website developer
+              description: I worked on some parts of the website using wix to people know about the conference. I also helped in organizing social events for team members.
               visibility: true
 
 # Education
