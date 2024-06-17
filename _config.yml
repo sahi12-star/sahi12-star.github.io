@@ -12,10 +12,6 @@ urls:
       url: /
     - text: About
       url: /about
-    - text: Projects
-      url: /projects
-    - text: Contact
-      url : /contact
 
 
 # Edit Author details (For multi authors check _data/authors.yml)
@@ -26,6 +22,7 @@ author_bio: Hi, my name is Naga Sahithi. I am an incoming junior majoring in Com
 author_email: sahithialla780@gmail.com
 author_location: 
 author_website_url: 
+typewrite-text: Naga Sahithi Description
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
