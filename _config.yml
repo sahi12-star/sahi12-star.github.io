@@ -26,7 +26,6 @@ author_bio: Hi, my name is Naga Sahithi. I am an incoming junior majoring in Com
 author_email: sahithialla780@gmail.com
 author_location: 
 author_website_url: 
-typewrite-text: 
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
@@ -65,9 +64,9 @@ author_project_details:
                 visibility: true
 
 # social links
-github_username:  sujaykundu777
-linkedin_username: johndoe
-instagram_username: johndoe
+github_username:  sahi12-star
+linkedin_username: naga-sahithi-alla-2aa457237
+instagram_username: sahithia4
 
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
