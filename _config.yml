@@ -16,7 +16,7 @@ urls:
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: profile.png
+author_logo: IMG.jpeg
 author: Naga Sahithi Alla
 author_bio: Hi, my name is Naga Sahithi. I am an incoming junior majoring in Computer Engineering and minoring in CMSE.
 author_email: sahithialla780@gmail.com
@@ -40,7 +40,7 @@ author_work_experiences:
 
 # Education
 author_education_details:
-              - college_logo: msu.jpeg
+              - college_logo: MSU.jpeg
                 college_name: Michigan State University
                 college_url: https://msu.edu
                 college_degree: Computer Engineering
@@ -49,15 +49,15 @@ author_education_details:
 
 # Projects
 author_project_details:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
+              - project_thumbnail: 
+                project_title: Ea(S)t Lansing
+                project_description: An app that is used to navigate food banks in the lansing area. I was working on building the back-end using Flutter
+                project_url: 
                 visibility: true
-              - project_thumbnail: hack4r.PNG
-                project_title: Hack4r
-                project_description: A Platform built for Hackers and Penetration Testers
-                project_url: https://hack4r.com
+              - project_thumbnail: 
+                project_title: Robot FSM Design
+                project_description: Designed a FSM using Verilog which enchanced my learning skills.
+                project_url: 
                 visibility: true
 
 # social links
